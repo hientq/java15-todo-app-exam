@@ -1,2 +1,1 @@
-# java15-todo-app-exam
-JAVA 15 - GIT 01
+VERSION: TODO-APP-2.0-SNAPSHOT
